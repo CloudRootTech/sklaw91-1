@@ -1,0 +1,4 @@
+User-agent: AhrefsBot
+Allow: /
+
+Sitemap: https://CloudRootTech.github.io/sklaw91-1/sitemap.xml
